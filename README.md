@@ -1,6 +1,6 @@
 # Jogo de Adivinhação (JavaScript)
 
-Este é um projeto desenvolvido durante o curso **JavaScript em 7 dias + Projetos Reais**, onde criei um jogo de adivinhação. O objetivo é adivinhar um número aleatório gerado pelo computador, com até 10 tentativas.
+Este é um projeto desenvolvido durante o curso **JavaScript em 7 dias + Projetos Reais**, onde criei um jogo de adivinhação com algumas melhorias pessoais. O objetivo é adivinhar um número aleatório gerado pelo computador, com até 10 tentativas.
 
 ## Funcionalidades
 
